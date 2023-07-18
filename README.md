@@ -1,5 +1,9 @@
 [![Gitpod](https://img.shields.io/badge/Open%20in%20Gitpod-908a85?logo=gitpod)](https://gitpod.io/#https://github.com/neshkeev/kafka-exercises)
 
+
+
+
+
 # Практические задания по Apache Kafka
 
 Задания представляют собой набор docker compose сервисов для демонстрации работы с Apache Kafka. Каждая ветка демонстрирует какой-то аспект работы с Apache Kafka. Обычно docker-compose конфигурация включает 4 сервиса:
